@@ -1,0 +1,14 @@
+D:\bridgelabz\Threading\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.exe
+D:\bridgelabz\Threading\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.deps.json
+D:\bridgelabz\Threading\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.runtimeconfig.json
+D:\bridgelabz\Threading\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.runtimeconfig.dev.json
+D:\bridgelabz\Threading\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.dll
+D:\bridgelabz\Threading\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.pdb
+D:\bridgelabz\Threading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.csproj.AssemblyReference.cache
+D:\bridgelabz\Threading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\Threading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.AssemblyInfoInputs.cache
+D:\bridgelabz\Threading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.AssemblyInfo.cs
+D:\bridgelabz\Threading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.csproj.CoreCompileInputs.cache
+D:\bridgelabz\Threading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.dll
+D:\bridgelabz\Threading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.pdb
+D:\bridgelabz\Threading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.genruntimeconfig.cache
